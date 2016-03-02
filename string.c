@@ -10,6 +10,10 @@ size_t my_strlen(char *s)
    return (p - s);
 }
 
+char *my_strcpy(char *t, char *s)
+{
+}
+
 int main(void)
 {
    int i;
