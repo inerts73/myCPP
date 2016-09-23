@@ -1,10 +1,5 @@
 #include <stdio.h>
-<<<<<<< HEAD
-
-=======
-#--------#
->>>>>>> 98ba238e1f553eb99951e9749682905d710bc2f3
-##########
+##########LocalChange###############
 size_t my_strlen(const char *s)
 {
    char *p = s;
